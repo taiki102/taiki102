@@ -1,5 +1,4 @@
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=tokawa-ms" />
+
 </div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=taiki102&show_icons=true&theme=tokyonight&count_private=true" />
